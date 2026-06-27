@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "One-Time Tab Close",
+    "version": "1.0",
+    "permissions": ["tabs", "alarms", "storage"],
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "background": {
+        "service_worker": "background.js"
+    }
+}
