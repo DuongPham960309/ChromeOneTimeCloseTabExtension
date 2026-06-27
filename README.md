@@ -1,4 +1,5 @@
 # ⏳ One-Time Tab Close (Chrome Extension)
+> Tiện ích mở rộng trên trình duyệt Chrome giúp đóng các tab được chỉ định khi đến giờ.
 
 ---
 
